@@ -27,8 +27,8 @@
   </div>
 
   <div class="field">
-    <%= form.label :owner_id %>
-    <%= form.text_field :owner_id %>
+    <%= form.label :owner_name %>
+    <%= form.collection_select :owner_id, Owner.all, :id, :name  %>
   </div>
 
   <div class="actions">
