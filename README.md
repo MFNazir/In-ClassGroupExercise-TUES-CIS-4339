@@ -1,24 +1,5 @@
-# README
+To Grader, 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+PLEASE NOTE (GRADER): PULL REQUEST WAS ADDED LATER AND WAS NOT REQUIRED FOR TUESDAY SECTION. 
+It was required for the Wednesday section but the Tuesday section did not have this required but 
+We did go over how to do it during lecture. 
